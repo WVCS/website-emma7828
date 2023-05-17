@@ -28,15 +28,12 @@ li{
 }
 li a{
   padding: 20px;
-  color: black;
+  color:#000000;
   font-family: "Manaco", Monospace;
   text-decoration: none;
   border: dashed
 }
 li a:hover{
-  background-color: black;
-  color: white;
-}
-  
-  
+  background-color: #000000;
+  color: #FFFFFF;
 }
