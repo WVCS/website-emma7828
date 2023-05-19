@@ -27,37 +27,38 @@ li a:hover{
   color: white;
 }
 h1{
-
   font-size: 150%;
   font-family: "Monaco", Monospace;
   float: left;
-  margin-left: 760px;
+   margin-left:760px;
   margin-right: auto;
-  
+
 }
 h2{
   font-size: 150%;
   font-family: "Monaco", Monospace;
   float: left;
-  margin-left: 50px;
+  margin-left: auto;
   margin-right: 700px;
-  
+
 }
 
 h3{
-  margin-top: 30px;
+  margin-top: 50px;
   font-size: 150%;
   font-family: "Monaco", Monospace;
-  float: left;
-  margin-left: 760px;
+   float: left;
+   margin-left:760px;
   margin-right: auto;
 
+  
 }
 h4{
   font-size: 150%;
   font-family: "Monaco", Monospace;
+  float: center;
   float: left;
-  margin-left: 50px;
+  margin-left: auto;
   margin-right: 700px;
 }
 h5{
